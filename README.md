@@ -1,2 +1,8 @@
 # hello-world
-learning GitHub
+## learning GitHub
+### Also learning Markdown syntax
+**this is bold**
+*this is in italics*
+> this is a blockquote
+
+`and code is written like this`
